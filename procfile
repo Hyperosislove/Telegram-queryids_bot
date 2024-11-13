@@ -1,0 +1,1 @@
+worker: node url_processor_bot.js
